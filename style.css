@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+.card{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 85px auto;
+}
+.col img{
+    width: 300px;
+    height: 250px;
+    margin: 12px;
+    border: 2px solid black;
+}
